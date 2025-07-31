@@ -1,0 +1,2 @@
+# Amaxon
+clone of amazon
